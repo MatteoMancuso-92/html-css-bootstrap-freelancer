@@ -1,25 +1,4 @@
-* {
-    box-sizing: border-box;
-}
-
-nav {
-    height: 90px;
-}
-
-header {
-    height: 590px;
-}
-
-.container {
-    height: 300px;
-}
-
-.col-white {
-    background-color: white;
-}
-
-.col-4 {
-    height: 300px;
-    background-color: chartreuse;
-    border: 2px solid black;
+.portfolio .contents {
+    background-color: blue;
+    height: 250px;
 }
