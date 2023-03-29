@@ -3,4 +3,22 @@
     height: 250px;
 }
 
+nav {
+    background-color: rgb(17%, 24%, 31%);
+}
 
+.hero {
+    background-color: rgb(10%, 74%, 61%);
+}
+
+.about {
+    background-color: rgb(10%, 74%, 61%);
+}
+
+.info {
+    background-color: rgb(23%, 33%, 43%);
+}
+
+footer {
+    background-color: rgb(17%, 24%, 31%);
+}
